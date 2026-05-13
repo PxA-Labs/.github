@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h1>🧬 PxA Labs</h1>
+  <h1>PxA Labs</h1>
   <p><i>Pushing the boundaries of Deep Learning and Speech Intelligence.</i></p>
 
   <p>
@@ -17,13 +17,13 @@
 
 ---
 
-### 🔭 Our Vision
+### Our Vision
 At **PxA Labs**, we are dedicated to building state-of-the-art AI systems that bridge the gap between human expression and machine understanding. Our research focuses on high-fidelity speech recognition, generative audio, and specialized deep learning architectures.
 
-### 🚀 Key Projects
+### Key Projects
 - **[IndiVoice-DeepASR](https://github.com/PxA-Labs/IndiVoice-DeepASR)**: A robust, high-performance Automatic Speech Recognition (ASR) system optimized for diverse linguistic contexts.
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -32,14 +32,14 @@ At **PxA Labs**, we are dedicated to building state-of-the-art AI systems that b
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
-### 🤝 Collaborative Innovation
+### Collaborative Innovation
 We believe in open research and community-driven development. Whether you are a researcher, developer, or enthusiast, we welcome contributions and collaborations that push the needle forward.
 
-- **📫 Reach Us**: [Email Us](mailto:contact@pxalabs.ai)
-- **🌐 Website**: [Coming Soon]
+- **Reach Us**: [Email Us](mailto:contact@pxalabs.ai)
+- **Website**: [Coming Soon]
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by PxA Labs</sub>
+  <sub>Built with Love by PxA Labs</sub>
 </div>
