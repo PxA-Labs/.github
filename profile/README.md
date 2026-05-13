@@ -24,6 +24,7 @@ PxA Labs is a multi-disciplinary research collective dedicated to developing hig
 - **AI & Machine Learning**: Generalizing architectures for complex problem-solving.
 - **Deep & Reinforcement Learning**: Mastering dynamic environments and high-dimensional data.
 - **Bioinformatics**: Leveraging ML to decode biological complexity and therapeutic discovery.
+- **Language Intelligence (LLMs & SLMs)**: Engineering next-generation large and small-scale language models.
 - **Speech & Audio Intelligence**: Building robust, human-centric auditory interfaces.
 
 ---
