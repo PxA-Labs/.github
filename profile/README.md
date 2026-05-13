@@ -26,9 +26,6 @@ PxA Labs is a multi-disciplinary research collective dedicated to developing hig
 - **Bioinformatics**: Leveraging ML to decode biological complexity and therapeutic discovery.
 - **Speech & Audio Intelligence**: Building robust, human-centric auditory interfaces.
 
-### Core Stack
-**Python** • **PyTorch** • **TensorFlow** • **CUDA** • **HuggingFace** • **FastAPI** • **JAX**
-
 ---
 
 <div align="center">
