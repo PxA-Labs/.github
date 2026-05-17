@@ -31,16 +31,11 @@ PxA Labs is a multi-disciplinary research collective dedicated to developing hig
 
 ### Flagship Projects
 
-#### 🔊 [IndiVoice-DeepASR](https://github.com/PxA-Labs/IndiVoice-DeepASR)
+#### [IndiVoice-DeepASR](https://github.com/PxA-Labs/IndiVoice-DeepASR)
 *Bridging the regional accent gap in speech recognition.*
 * **Technology Stack**: OpenAI Whisper-Medium, Parameter-Efficient Fine-Tuning (PEFT/LoRA), PyTorch, Hugging Face Transformers.
 * **Core Contribution**: Achieves state-of-the-art ASR performance on regional Indian accents (Svarah corpus) using low-rank adapters and dynamic runtime config sanitization, optimized for low-resource 16GB dual-GPU setups.
 * **Model Checkpoints**: Available on [Hugging Face Model Hub](https://huggingface.co/purvansh01/whisper-indian-lora).
-
-#### 🤖 [ConflictEnv](https://github.com/PxA-Labs/ConflictEnv)
-*Multi-agent reinforcement learning environment for strategic negotiation.*
-* **Core Contribution**: Engineered a custom RL environment simulating complex multi-agent diplomatic negotiations. Leverages LLM-driven strategic agents with structured action spaces validated via Pydantic.
-* **Milestone**: Selected as an official finalist in the prestigious **Meta OpenEnv Hackathon Finale**.
 
 ---
 
