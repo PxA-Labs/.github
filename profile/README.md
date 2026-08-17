@@ -41,9 +41,10 @@ PxA Labs is a multi-disciplinary research collective dedicated to developing hig
 ### Collaboration & Inquiries
 We welcome research collaborations with universities, open-source developers, and AI safety groups.
 
-* **Inquiries**: [contact@pxalabs.ai](mailto:contact@pxalabs.ai)
+* **Inquiries**: [contact@pxalabs.ai](mailto:pxalabs@gmail.com)
 * **Discord**: [Join Server](https://discord.gg/W4BQ8835tk)
 * **Lead Maintainer Contact**: [purvanshjoshi7534011576@gmail.com](mailto:purvanshjoshi7534011576@gmail.com)
+* **Lead Maintainer Contact**: [work.architmittal@gmail.com](mailto:work.architmittal@gmail.com)
 * **Status**: `[Active Research & Optimization]`
 
 <div align="center">
